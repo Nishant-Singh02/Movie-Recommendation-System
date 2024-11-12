@@ -1,4 +1,5 @@
-Movie Recommender System <br> 
+<h1>Movie Recommender System</h1>h1>
+<br> 
 This is a web application that recommends movies based on a selected movie title. Built using 
 Streamlit, this project fetches movie details and posters from The Movie Database (TMDb) API 
 and provides recommendations based on cosine similarity.
