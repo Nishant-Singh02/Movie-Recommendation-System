@@ -5,7 +5,7 @@ Streamlit, this project fetches movie details and posters from The Movie Databas
 and provides recommendations based on cosine similarity.
 <br> 
 <h2>Demo Screenshot</h2>
-![image](https://github.com/user-attachments/assets/60361fbf-223f-4331-9a71-af64a4e5e63d)
+![image](https://github.com/user-attachments/assets/d0cab277-91de-45bd-bbd9-1d3276e5ee19)
 
 <br> 
 <h2>Dataset</h2>
