@@ -7,7 +7,7 @@ and provides recommendations based on cosine similarity.
 <br>
 Demo Screenshot
 
-![Screenshot 2024-11-12 231935](https://github.com/user-attachments/assets/76c05048-b4f7-43b1-b65e-855748617ba8)
+![image](https://github.com/user-attachments/assets/f91d8cea-ae9d-43c5-8255-bc242f39ab19)
 
 
 
