@@ -4,10 +4,9 @@ This is a web application that recommends movies based on a selected movie title
 Streamlit, this project fetches movie details and posters from The Movie Database (TMDb) API 
 and provides recommendations based on cosine similarity.
 <br> 
-<h2>Demo Screenshot</h2>
-![image](https://github.com/user-attachments/assets/cf835009-1134-4e0b-a76a-6a598ee6ad80)
-![image](https://github.com/user-attachments/assets/9b74ba33-35ed-4d9d-b574-d46e95ad2a5b)
-![Screenshot 2024-11-12 231935](https://github.com/user-attachments/assets/5d4ab2cc-d5e9-4b37-a16b-725c8943fad2)
+Demo Screenshot
+
+![Screenshot 2024-11-12 231935](https://github.com/user-attachments/assets/76c05048-b4f7-43b1-b65e-855748617ba8)
 
 
 
